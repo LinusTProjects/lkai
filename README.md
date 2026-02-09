@@ -36,7 +36,7 @@ This isn't complicated. It's just cryptographic verification of compute.
 
 ## The Token
 
-**$LINUS** - Contract: ``
+**$LINUS** - Contract: `ANJG1Ts7aFbjdfL3jkM7eNVNc8BzVyfuLV3ri6Ggpump`
 
 Test token created on pumpfun for developing the verification mechanism. Every AI project and their dog is spawning tokens lately. Figured I'd understand the mechanics firsthand instead of just reading about it.
 
